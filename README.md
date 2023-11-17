@@ -1,5 +1,5 @@
 # Portfolio
-<sub> General informations about my current experience with testing.
+<sub> General information about my current experience with testing.
 
 ## About me 👩‍💻 [<img width="20" alt="LinkedIn logo" src="https://user-images.githubusercontent.com/110050632/220698295-2aaafcfd-449e-4ebc-8b83-150a4fe3ddac.png">](https://www.linkedin.com/in/karabiel/)
 
@@ -10,12 +10,12 @@ In 2015 I've finished technical school in IT field but after that I got interest
 
 I keep up to date my [LinkedIn profile](https://www.linkedin.com/in/karabiel/) about my progress.
  
-Below are the most important informations about my achievements that bring me closer to the goal - following chosen career path.
+Below are the most important information about my achievements that bring me closer to the goal - following chosen career path.
 
 
 ### Skills
 
-  * exploratory testing and reporting bugs
+  * exploratory testing and bugs reporting
 
 
     -  :link: [exploratory testing](https://github.com/karabiel/challenge_portfolio_Karolina#subtask-4-testy-eksploracyjne-na-podstawie-strony-scouts-panel) based on website [Scout Panel](https://scouts-test.futbolkolektyw.pl/),
