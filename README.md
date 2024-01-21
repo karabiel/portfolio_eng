@@ -56,7 +56,10 @@ Below are the most important information about my achievements that bring me clo
     - :link: [tasks from *DareIT*](https://github.com/karabiel/challenge_portfolio_Karolina#subtask-3-zadania-weight_lifting),
     
     
-    - :link: [tasks from *SQL in 120 minutes*](https://github.com/karabiel/SQL-w-120-min/blob/main/README.md);
+    - :link: [tasks from *SQL in 120 minutes*](https://github.com/karabiel/SQL-w-120-min/blob/main/README.md),
+    
+    
+    - :link: [based on a game - *SQL Police Department*](https://github.com/karabiel/SQL_PD/);
 
   * creating basic websites (HTML + CSS)
 
